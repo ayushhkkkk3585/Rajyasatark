@@ -44,15 +44,15 @@ button{
 }
 
 .one:hover{
-    background-color: gray  ;
+    background-color: aquamarine  ;
     color: black;
 }
 .two:hover{
-    background-color: gray  ;
+    background-color: aquamarine  ;
     color: black;
 }
 .three:hover{
-    background-color: gray  ;
+    background-color: aquamarine  ;
     color: black;
 
 }
@@ -79,9 +79,29 @@ button{
     margin-top: 50px    ;
 }
 
+.helpline{
+    margin-left:65px ;
+    color: white;
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
 
+.helpline button{
+    background-color: white;
+    color: white;
+    padding: 10px;
+    border-radius:10px ;
+    font-size: 15px;
+    text-decoration: none;
 
+}
+.help:hover{
+    background-color: aquamarine;
+    
 
+}
 
 
 
